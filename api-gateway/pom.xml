@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.microservices.config</groupId>
-    <artifactId>order-service</artifactId>
+    <artifactId>api-gateway</artifactId>
 
     <dependencies>
 
